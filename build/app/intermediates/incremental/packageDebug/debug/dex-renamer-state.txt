@@ -1,0 +1,4 @@
+#Wed Aug 29 13:54:31 IST 2018
+base.0=D\:\\FLUTTER\\FLUTTER_DEVS\\Projects\\flutternavigationdrawerdemo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
